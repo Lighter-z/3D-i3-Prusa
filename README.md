@@ -6,6 +6,9 @@ http://www.cirmall.com/circuit/9783/corexy%E5%9E%8B3D%E6%89%93%E5%8D%B0%E6%9C%BA
 http://www.cirmall.com/circuit/9782/i3%E5%9E%8B3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%88%B6%E4%BD%9C%E8%B5%84%E6%96%99                   
 `MakerBot:`       
 http://www.cirmall.com/circuit/9780/MakerBot%E5%9E%8B3D%E6%89%93%E5%8D%B0%E6%9C%BA%E8%B5%84%E6%96%99#/details               
+
+欢迎加入QQ电子交流群：658384577                               
+                        
 首先，看一下打印机和打印效果:           
 打印机：            
 ![picture](https://raw.githubusercontent.com/Lighter-z/Prusa-i3/master/%E5%9B%BE%E7%89%87/i3.jpg)        
