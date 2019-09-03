@@ -2,7 +2,7 @@
 详细的资料地址：        
 `core xy:`            
 [点击查看详情](https://www.cirmall.com/circuit/9783#/details)                   
-`i3:` 
+`i3:`                                       
 [点击查看详情](https://www.cirmall.com/circuit/9782)                   
 `MakerBot:`       
 [点击查看详情](https://www.cirmall.com/circuit/9780#/details)                                  
